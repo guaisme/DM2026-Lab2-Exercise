@@ -1,0 +1,49 @@
+{
+  "blend": "D70 = equal-weight mean of 11 members' class probabilities",
+  "members": {
+    "C13": {
+      "oof": "478e75fac0b58d8c43bca791c160bbdc79bb056b29b10258febe76d59de76cbe",
+      "test": "56f12192fca862f6b7addd82348a31dfc8d1bd1a6b5a27a77a7e07243190861d"
+    },
+    "N01": {
+      "oof": "7b32f5ab85e4e00456e3056daac7ee04c0d2e9e0075448f57fa167cfe70b0b5b",
+      "test": "935133be90aaee061455f6c831c3aa7361b560a444b4b5cdf5f2b0544bc7914c"
+    },
+    "N02": {
+      "oof": "e1e065fba2937b3c8d98a060787ba0e1a52993a22134f200071738a9c748628c",
+      "test": "ffe9fd0f03e757969c1bff58ecd38e91a31d3c8fe98159d840d6b19615bbf01b"
+    },
+    "TF": {
+      "oof": "0f4ca0da30280a4775e13f35936246881d8391770342400d326e8586d4cd43bb",
+      "test": "be45605da2c4e22d747588d7ea3148f99a07711644cbf5fd54c9d72198fa60a6"
+    },
+    "L01": {
+      "oof": "79c54144f53f7473aaf0c7d2747d17f9af8bf7720c193667342059bec9c203fe",
+      "test": "5da3bf417bb8e5b36ba3f2e66d99bc1e1e28c795f847bc6a25cf51961c80fcab"
+    },
+    "V01": {
+      "oof": "0bb82c838286d4b869ff8ecd4c78b493d225ad76c2d6cbcdb92b86e3b45af165",
+      "test": "ab36cce34f4135fc122673eb16f670676188963cba13ef3cbcbaa34adf4e4cc2"
+    },
+    "MB": {
+      "oof": "e62fe2c24998be7cc9bfb8bae675be516fe52125d3f19acecbae960fda76e3d4",
+      "test": "a43a57fc14aba221a9540c1657125b3c46c1bb4d89370abb60e8e4377570577c"
+    },
+    "G01": {
+      "oof": "440d5cdc7d23acbdc81c37634cd8ab8947375c37d039934d6c0497a3848292af",
+      "test": "e6c9ffa3bf37c847024cef706d5da686782393df9b813d44ad65a377a5fb18f6"
+    },
+    "G02": {
+      "oof": "5d1b2c333d9276a11c99a585f933b68180a67c306f556e238201f6355ace99bd",
+      "test": "dbcae2174b573f80fbb64cbee4dba87c8c7b5f34986e27c4323ec56667ea1d39"
+    },
+    "M02": {
+      "oof": "8c8c676d28ca710bedefd94f8637b3e06b787e3b8b05306a5c310c3ad54aae52",
+      "test": "6b9a1b6beca6c5533a75d28db9d2f8bbadc50813a97aec39a6c6365e604255d8"
+    },
+    "Q14": {
+      "oof": "973a7db08ce1e38b3683b4913d7071bd3e48579fb80ff6e8206424a81d7379d5",
+      "test": "b296a150097f1bdf7873092b3d98546eaac3c95a5da1311439547a8b54aa07e6"
+    }
+  }
+}
